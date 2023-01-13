@@ -1,6 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Rayyanabdo3/TestPlugin.
-build-by-default: true
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Rayyanabdo3/TestPlugin
 branches:
-- main
-projects: []
+- master
+projects:
+  TestPlugin:
+    path: ""
 ...
